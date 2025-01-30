@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### code along
+https://youtu.be/XuFDcZABiDQ?list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb
+
+### what i learnt
+- useState()
+- create folder context inside src.
+- use createContext, useReducer, useContext
+- lepas create GlobalContext, GlobalProvider semua, create reducer
+- Reducer typically handles actions (like adding, removing, or updating)
+- Math.abs() to make number always positive
+- update actions in GlobalState. the dispatch(), type, payload etc
+- then update AppReducer
